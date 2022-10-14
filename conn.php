@@ -23,6 +23,6 @@ class Dbh {
             echo "Connection failed: ".$e->getMessage();
         }
     }
-    //darlonnnn
+    //darlon
 }
 ?>
